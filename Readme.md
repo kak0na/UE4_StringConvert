@@ -33,6 +33,12 @@ Easily convert String to URL, Unicode, Bytes, Base64 format data freely.
 
 ![8](Readme/8.png) 
 
+9.Convert FString to/from URL(GB2312)
+
+![13](Readme/13.png)
+
+
+
 
 
 Overall preview
@@ -46,3 +52,8 @@ Overall preview
 ![11](Readme/11.png) 
 
 ![12](Readme/12.png) 
+
+
+
+
+
